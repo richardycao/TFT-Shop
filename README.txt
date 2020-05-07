@@ -1,6 +1,7 @@
 Currently only configured for 1920x1080 resolution monitors.
 
-Code: https://drive.google.com/drive/folders/1B5VwE-VHa-KsxYoR-GM3rqdwnygp9dq3?usp=sharing
+Code for generating data and training model: 
+https://drive.google.com/drive/folders/1B5VwE-VHa-KsxYoR-GM3rqdwnygp9dq3?usp=sharing
 
 Runs well on CPU:
 Intel Core i7, 2.8 GHz: 33 FPS
