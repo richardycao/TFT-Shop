@@ -5,6 +5,8 @@ Counts champions in the shop for TFT Set 3. Works well for CPU.
 Code for generating data and training model: 
 https://drive.google.com/drive/folders/1B5VwE-VHa-KsxYoR-GM3rqdwnygp9dq3?usp=sharing
 
+Note: I won't be updating this since it's not feasible for me to recollect champion data every time a new set is released (data is hand-lebeled)
+
 # Setup
 Requires python 3.5-3.7:
 
