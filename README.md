@@ -1,6 +1,6 @@
 # TFT-Shop
 
-Counts champions in the shop for TFT Set 3. Works well for CPU.
+Counts champions in the shop for TFT Set 3. Use for 1920 x 1080 resolution only.
 
 Code for generating data and training model: 
 https://drive.google.com/drive/folders/1B5VwE-VHa-KsxYoR-GM3rqdwnygp9dq3?usp=sharing
